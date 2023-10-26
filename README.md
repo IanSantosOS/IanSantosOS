@@ -1,4 +1,8 @@
-### Hello there 👋
+# Hello there 👋
+
+Estudante do Instituto Federal de Alagoas Campus Maceió 🌴
+
+Cursando 🖥 Desenvolvimento de Sistemas 🖥
 
 [![Blog](https://img.shields.io/website?label=1ansantos.github.io&style=for-the-badge&url=https://1ansantos.github.io/)](https://1ansantos.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-dos-santos-a20956283/)
