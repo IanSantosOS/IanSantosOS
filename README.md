@@ -8,8 +8,8 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-dos-santos-a20956283/)
 
 <div>
-    <img height="180em" alt="Estatísticas do Github de Ian Santos" src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&locale=pt-br&rank_icon=github">
-    <img height="180em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&locale=pt-br">
+    <img height="180em" alt="Estatísticas do Github de Ian Santos" src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github">
+    <img height="190em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br">
 </div>
 
 ## Tecnologias utilizadas no meu dia a dia
@@ -21,11 +21,21 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+##
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <!---
 Como personalizar o seu perfil no Github
 - https://www.youtube.com/watch?v=cRoBt6AZgjc&t=300s
 - https://www.youtube.com/watch?v=TsaLQAetPLU
+- https://www.youtube.com/watch?v=VEVJQipsA7M
 
 CARDS
 - https://github.com/anuraghazra/github-readme-stats
