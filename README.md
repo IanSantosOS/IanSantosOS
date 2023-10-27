@@ -1,4 +1,16 @@
-# Hello there 👋
+<picture>
+    <source
+        srcset="https://capsule-render.vercel.app/api?type=waving&color=bc0f4b&height=150&section=header"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
+</picture>
+
+[![Seja Bem-vindo](https://readme-typing-svg.herokuapp.com/?color=bc0f4b&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👋;General+Kenobi;Github+de+Ian+Santos;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 Estudante do Instituto Federal de Alagoas Campus Maceió 🌴
 
@@ -21,7 +33,7 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
             alt="Estatísticas do Github de Ian Santos"
             height="180em"
         />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github" />
     </picture>
     <picture>
         <source
@@ -36,8 +48,13 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
             alt="Linguagens mais usadas"
             height="190em"
         />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br" />
     </picture>
+</div>
+
+<div align="center">
+    <p><b>Visitors Count</b></p>
+    <img src="https://profile-counter.glitch.me/{1anSantos}/count.svg" /> 
 </div>
 
 ## Tecnologias utilizadas no meu dia a dia
@@ -60,7 +77,7 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
 </div>
 
 <!---
-Como personalizar o seu perfil no Github
+COMO PERSONALIZAR O SEU PERFIL DO GITHUB
 - https://www.youtube.com/watch?v=cRoBt6AZgjc&t=300s
 - https://www.youtube.com/watch?v=TsaLQAetPLU
 - https://www.youtube.com/watch?v=VEVJQipsA7M
@@ -68,7 +85,10 @@ Como personalizar o seu perfil no Github
 CARDS
 - https://github.com/anuraghazra/github-readme-stats
 
-BADGES & Icons
+BADGES & ICONS
 - https://dev.to/envoy_/150-badges-for-github-pnk
 - https://devicon.dev/
+
+SNAKE
+- https://github.com/Platane/snk
 --->
