@@ -7,9 +7,12 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
 [![Blog](https://img.shields.io/website?label=1ansantos.github.io&style=for-the-badge&url=https://1ansantos.github.io/)](https://1ansantos.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-dos-santos-a20956283/)
 
-![Ian Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&locale=pt-br&rank_icon=github)
+<div>
+    <img height="180em" alt="Estatísticas do Github de Ian Santos" src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&locale=pt-br&rank_icon=github">
+    <img height="180em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&locale=pt-br">
+</div>
 
-## Tecnologias usadas no meu dia a dia
+## Tecnologias utilizadas no meu dia a dia
 
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,9 +23,14 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
 
 
 <!---
-CARDS
-https://github.com/anuraghazra/github-readme-stats
+Como personalizar o seu perfil no Github
+- https://www.youtube.com/watch?v=cRoBt6AZgjc&t=300s
+- https://www.youtube.com/watch?v=TsaLQAetPLU
 
-BADGES
-https://dev.to/envoy_/150-badges-for-github-pnk
+CARDS
+- https://github.com/anuraghazra/github-readme-stats
+
+BADGES & Icons
+- https://dev.to/envoy_/150-badges-for-github-pnk
+- https://devicon.dev/
 --->
