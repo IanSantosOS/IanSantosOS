@@ -10,14 +10,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
 </picture>
 
-[![Seja Bem-vindo](https://readme-typing-svg.herokuapp.com/?color=bc0f4b&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👋;General+Kenobi;Github+de+Ian+Santos;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
-
-Estudante do Instituto Federal de Alagoas Campus Maceió 🌴
-
-Cursando 🖥 Desenvolvimento de Sistemas 🖥
-
-[![Blog](https://img.shields.io/website?label=1ansantos.github.io&style=for-the-badge&url=https://1ansantos.github.io/)](https://1ansantos.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-dos-santos-a20956283/)
+[![Seja Bem-vindo](https://readme-typing-svg.herokuapp.com/?color=bc0f4b&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
     <picture>
@@ -55,6 +48,16 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
 <div align="center">
     <p><b>Visitors Count</b></p>
     <img src="https://profile-counter.glitch.me/{1anSantos}/count.svg" /> 
+</div>
+
+<div align="center">
+    <a href="https://1ansantos.github.io/">
+        <img alt="Meu Site" src="https://img.shields.io/website?label=1ansantos.github.io&style=for-the-badge&url=https://1ansantos.github.io/" />
+    </a>
+    <br />
+    <a href="https://www.linkedin.com/in/ian-dos-santos-a20956283/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
 
 ## Tecnologias utilizadas no meu dia a dia
