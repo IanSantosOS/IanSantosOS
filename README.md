@@ -7,9 +7,37 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
 [![Blog](https://img.shields.io/website?label=1ansantos.github.io&style=for-the-badge&url=https://1ansantos.github.io/)](https://1ansantos.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-dos-santos-a20956283/)
 
-<div>
-    <img height="180em" alt="Estatísticas do Github de Ian Santos" src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github">
-    <img height="190em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br">
+<div align="center">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
+            media="(prefers-color-scheme: dark)"
+            alt="Estatísticas do Github de Ian Santos"
+            height="180em"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            alt="Estatísticas do Github de Ian Santos"
+            height="180em"
+        />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br"
+            media="(prefers-color-scheme: dark)"
+            alt="Linguagens mais usadas"
+            height="190em"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            alt="Linguagens mais usadas"
+            height="190em"
+        />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
 </div>
 
 ## Tecnologias utilizadas no meu dia a dia
