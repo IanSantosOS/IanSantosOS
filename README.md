@@ -16,7 +16,7 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
             height="180em"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             alt="Estatísticas do Github de Ian Santos"
             height="180em"
@@ -31,7 +31,7 @@ Cursando 🖥 Desenvolvimento de Sistemas 🖥
             height="190em"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             alt="Linguagens mais usadas"
             height="190em"
