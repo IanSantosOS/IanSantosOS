@@ -1,11 +1,11 @@
 <picture>
     <source
         srcset="https://capsule-render.vercel.app/api?type=waving&color=bc0f4b&height=150&section=header"
-        media="(prefers-color-scheme: dark)"
+        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
         srcset="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: light)"
     />
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
 </picture>
@@ -16,13 +16,13 @@
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
-            media="(prefers-color-scheme: dark)"
+            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
             alt="Estatísticas do Github de Ian Santos"
             height="180em"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            media="(prefers-color-scheme: light)"
             alt="Estatísticas do Github de Ian Santos"
             height="180em"
         />
@@ -31,13 +31,13 @@
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br"
-            media="(prefers-color-scheme: dark)"
+            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
             alt="Linguagens mais usadas"
             height="190em"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            media="(prefers-color-scheme: light)"
             alt="Linguagens mais usadas"
             height="190em"
         />
@@ -73,7 +73,7 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg">
 </picture>
