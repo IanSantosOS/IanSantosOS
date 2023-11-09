@@ -10,7 +10,17 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
 </picture>
 
-[![Seja Bem-vindo](https://readme-typing-svg.herokuapp.com/?color=bc0f4b&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+<picture>
+    <source
+        srcset="https://readme-typing-svg.herokuapp.com/?color=bc0f4b&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
+        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <source
+        srcset="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
+        media="(prefers-color-scheme: light)"
+    />
+    <img width=100% alt="Seja Bem-vindo" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"/>
+</picture>
 
 <div align="center">
     <picture>
