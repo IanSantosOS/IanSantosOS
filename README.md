@@ -88,20 +88,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-<!---
-COMO PERSONALIZAR O SEU PERFIL DO GITHUB
-- https://www.youtube.com/watch?v=cRoBt6AZgjc&t=300s
-- https://www.youtube.com/watch?v=TsaLQAetPLU
-- https://www.youtube.com/watch?v=VEVJQipsA7M
-
-CARDS
-- https://github.com/anuraghazra/github-readme-stats
-
-BADGES & ICONS
-- https://dev.to/envoy_/150-badges-for-github-pnk
-- https://devicon.dev/
-
-SNAKE
-- https://github.com/Platane/snk
---->
