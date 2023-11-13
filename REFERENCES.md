@@ -6,11 +6,18 @@ além de alguns que eu gostei mas não coloquei por achar que não combinava no 
 - https://www.youtube.com/watch?v=cRoBt6AZgjc&t=300s
 - https://www.youtube.com/watch?v=TsaLQAetPLU
 - https://www.youtube.com/watch?v=VEVJQipsA7M
+- https://www.youtube.com/watch?v=IfrMAmav9dQ
+
+## Profile Generator
+- https://gprm.itsvg.in/
 
 ## CARDS
 - https://github.com/anuraghazra/github-readme-stats
+- https://github.com/DenverCoder1/github-readme-streak-stats
+- https://github.com/ryo-ma/github-profile-trophy
+- https://github.com/Ashutosh00710/github-readme-activity-graph
 
-## BADGES & ICONS
+## ICONS
 - https://dev.to/envoy_/150-badges-for-github-pnk
 - https://devicon.dev/
 
