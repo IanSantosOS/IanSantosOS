@@ -62,7 +62,7 @@
 
 <div align="center">
     <a href="https://1ansantos.github.io/">
-        <img alt="Meu Site" src="https://img.shields.io/website?label=1ansantos.github.io&style=for-the-badge&url=https://1ansantos.github.io/" />
+        <img alt="Meu Site" src="https://img.shields.io/website?label=Meu%20Site&style=for-the-badge&url=https://1ansantos.github.io/" />
     </a>
     <br />
     <a href="https://www.linkedin.com/in/ian-dos-santos-a20956283/">
