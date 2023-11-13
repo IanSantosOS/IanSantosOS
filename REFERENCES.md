@@ -8,7 +8,7 @@ além de alguns que eu gostei mas não coloquei por achar que não combinava no 
 - https://www.youtube.com/watch?v=VEVJQipsA7M
 - https://www.youtube.com/watch?v=IfrMAmav9dQ
 
-## Profile Generator
+## PROFILE GENERATOR
 - https://gprm.itsvg.in/
 
 ## CARDS
