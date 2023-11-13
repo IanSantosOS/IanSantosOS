@@ -1,4 +1,4 @@
-# REFERENCES
+# SOBRE
 aqui você irá encontrar todos os vídeos e links que eu utilizei para customizar o meu README
 além de alguns que eu gostei mas não coloquei por achar que não combinava no estilo atual mas que pode vir a ser útil.
 
