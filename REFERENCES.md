@@ -2,7 +2,7 @@
 aqui você irá encontrar todos os vídeos e links que eu utilizei para customizar o meu README
 além de alguns que eu gostei mas não coloquei por achar que não combinava no estilo atual mas que pode vir a ser útil.
 
-## COMO PERSONALIZAR O SEU PERFIL DO GITHUB
+## VIDEOS
 - https://www.youtube.com/watch?v=cRoBt6AZgjc&t=300s
 - https://www.youtube.com/watch?v=TsaLQAetPLU
 - https://www.youtube.com/watch?v=VEVJQipsA7M
