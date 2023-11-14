@@ -7,7 +7,10 @@
         srcset="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"
         media="(prefers-color-scheme: light)"
     />
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
+    <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"
+        width="100%"
+    />
 </picture>
 
 <picture>
@@ -19,7 +22,11 @@
         srcset="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
         media="(prefers-color-scheme: light)"
     />
-    <img width=100% alt="Seja Bem-vindo" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"/>
+    <img
+        width="100%"
+        alt="Seja Bem-vindo"
+        src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
+    />
 </picture>
 
 <div align="center">
@@ -27,31 +34,31 @@
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-            alt="Estatísticas do Github de Ian Santos"
-            height="180em"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
             media="(prefers-color-scheme: light)"
-            alt="Estatísticas do Github de Ian Santos"
-            height="180em"
         />
-      <img src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github" />
+      <img
+          src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
+          alt="Estatísticas do Github de Ian Santos"
+          height="180em"
+      />
     </picture>
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br"
             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-            alt="Linguagens mais usadas"
-            height="190em"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
             media="(prefers-color-scheme: light)"
-            alt="Linguagens mais usadas"
-            height="190em"
         />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br" />
+      <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
+          alt="Linguagens mais usadas"
+          height="190em"
+      />
     </picture>
 </div>
 
@@ -85,6 +92,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
