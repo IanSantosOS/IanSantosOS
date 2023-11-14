@@ -107,15 +107,15 @@
 <div align="center">
     <picture>
         <source
-            srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&theme=onestar&column=-1"
+            srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&theme=onestar&column=-1"
             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
         />
         <source
-            srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&column=-1"
+            srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&column=-1"
             media="(prefers-color-scheme: light)"
         />
         <img
-            src="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&column=-1"
+            src="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&column=-1"
             alt="Imagem com todos os troféis"
         />
     </picture>
