@@ -9,18 +9,26 @@ além de alguns que eu gostei mas não coloquei por achar que não combinava no 
 - https://www.youtube.com/watch?v=IfrMAmav9dQ
 
 ## TEMPLATES
-- https://gprm.itsvg.in/
-- https://github.com/iuricode/readme-template
+- [Profile Generator](https://gprm.itsvg.in/)
+- [Templates Básicos](https://github.com/iuricode/readme-template)
+- [Lista de Criadores de Componentes](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+## CABEÇALHOS
+- [Efeito Onda](https://github.com/kyechan99/capsule-render)
+
+## TEXTO ESTILIZADO
+- [Digitando](https://github.com/DenverCoder1/readme-typing-svg)
 
 ## CARDS
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/DenverCoder1/github-readme-streak-stats
-- https://github.com/ryo-ma/github-profile-trophy
-- https://github.com/Ashutosh00710/github-readme-activity-graph
+- [Status do seu Perfil](https://github.com/anuraghazra/github-readme-stats)
+- [Streak Stats - Dias Seguidos](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Troféus](https://github.com/ryo-ma/github-profile-trophy)
+- [Gráfico](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [Contador de Visitas (abra o link para o repositório)](https://ryanlanciaux.com/blog/2020/07/13/quick-github-profile-visit-counter/)
 
 ## ICONS
-- https://dev.to/envoy_/150-badges-for-github-pnk
-- https://devicon.dev/
+- [Pequenas Etiquetas](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [Dev Icon](https://devicon.dev/)
 
-## SNAKE
-- https://github.com/Platane/snk
+## ACTIONS
+- [Snake](https://github.com/Platane/snk)
