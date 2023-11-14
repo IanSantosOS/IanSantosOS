@@ -115,7 +115,7 @@
             media="(prefers-color-scheme: light)"
         />
         <img
-            src="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&column=-1"
+            src="https://github-profile-trophy.vercel.app/?username=1ansantos&no-frame=true&column=-1"
             alt="Imagem com todos os troféis"
         />
     </picture>
