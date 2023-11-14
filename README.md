@@ -67,7 +67,7 @@
             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
         />
         <source
-            srcset="https://streak-stats.demolab.com?user=1ansantos&background=transparent&hide_border=true&locale=pt_BR"
+            srcset="https://streak-stats.demolab.com?user=1ansantos&hide_border=true&locale=pt_BR"
             media="(prefers-color-scheme: light)"
         />
         <img
@@ -103,8 +103,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ##
-
-
 
 <div align="center">
     <picture>
