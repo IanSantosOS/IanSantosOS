@@ -71,7 +71,7 @@
             media="(prefers-color-scheme: light)"
         />
         <img
-            src="https://streak-stats.demolab.com?user=1ansantos&background=transparent&hide_border=true&locale=pt_BR"
+            src="https://streak-stats.demolab.com?user=1ansantos&hide_border=true&locale=pt_BR"
             alt="GitHub Streak"
             height="190em"
         />
