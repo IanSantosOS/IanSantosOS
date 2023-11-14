@@ -19,7 +19,7 @@
         media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-        srcset="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&repeat=false&pause=4&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
+        srcset="https://readme-typing-svg.herokuapp.com/?color=#006aff&size=35&center=true&vCenter=true&repeat=false&pause=4&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
         media="(prefers-color-scheme: light)"
     />
     <img
