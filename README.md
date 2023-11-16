@@ -1,11 +1,11 @@
 <picture>
     <source
         srcset="https://capsule-render.vercel.app/api?type=waving&color=bc0f4b&height=150&section=header"
-        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: dark)"
     />
     <source
         srcset="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"
-        media="(prefers-color-scheme: light)"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
         src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"
@@ -16,11 +16,11 @@
 <picture>
     <source
         srcset="https://readme-typing-svg.herokuapp.com/?color=bc0f4b&size=35&center=true&vCenter=true&repeat=false&pause=700&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
-        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: dark)"
     />
     <source
         srcset="https://readme-typing-svg.herokuapp.com/?color=3082f4&size=35&center=true&vCenter=true&repeat=false&pause=4&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
-        media="(prefers-color-scheme: light)"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
         width="100%"
@@ -33,11 +33,11 @@
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
-            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+            media="(prefers-color-scheme: dark)"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
-            media="(prefers-color-scheme: light)"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
             src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
@@ -48,11 +48,11 @@
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br"
-            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+            media="(prefers-color-scheme: dark)"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
-            media="(prefers-color-scheme: light)"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
@@ -64,11 +64,11 @@
     <picture>
         <source
             srcset="https://streak-stats.demolab.com?user=1ansantos&background=transparent&theme=dark&hide_border=true&locale=pt_BR"
-            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+            media="(prefers-color-scheme: dark)"
         />
         <source
             srcset="https://streak-stats.demolab.com?user=1ansantos&hide_border=true&locale=pt_BR"
-            media="(prefers-color-scheme: light)"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
             src="https://streak-stats.demolab.com?user=1ansantos&hide_border=true&locale=pt_BR"
@@ -112,11 +112,11 @@
     <picture>
         <source
             srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&theme=onestar&column=-1"
-            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+            media="(prefers-color-scheme: dark)"
         />
         <source
             srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&column=-1"
-            media="(prefers-color-scheme: light)"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
             src="https://github-profile-trophy.vercel.app/?username=1ansantos&no-frame=true&column=-1"
