@@ -93,7 +93,7 @@
     </a>
 </div>
 
-## Tecnologias utilizadas no meu dia a dia
+## Tecnologias e Ferramentas ✨
 
 <div align="center">
     <code><img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
@@ -136,7 +136,7 @@
             src="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg"
             alt="Animação de uma cobra comendo os commits"
         />
-</picture>
+    </picture>
 </div>
 
 <!--
