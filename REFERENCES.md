@@ -22,8 +22,8 @@ além de alguns que eu gostei mas não coloquei por achar que não combinava no 
 ## CARDS
 - [Status do seu Perfil](https://github.com/anuraghazra/github-readme-stats)
 - [Streak Stats - Dias em Sequência](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Troféus](https://github.com/ryo-ma/github-profile-trophy)
-- [Gráfico](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [Troféus de Conquista](https://github.com/ryo-ma/github-profile-trophy)
+- [Gráfico de Contribuições](https://github.com/Ashutosh00710/github-readme-activity-graph)
 - [Contador de Visitas (abra o link para o repositório)](https://ryanlanciaux.com/blog/2020/07/13/quick-github-profile-visit-counter/)
 
 ## ICONS
