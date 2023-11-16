@@ -36,11 +36,11 @@
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
+            srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-            src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
+            src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
             alt="Estatísticas do Github de Ian Santos"
             height="180em"
         />
@@ -51,11 +51,11 @@
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&hide_border=true&locale=pt-br"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&bg_color=00000000&hide_border=true&locale=pt-br"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&hide_border=true&locale=pt-br"
             alt="Linguagens mais usadas"
             height="190em"
         />
