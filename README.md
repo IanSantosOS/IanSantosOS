@@ -25,7 +25,7 @@
     <img
         width="100%"
         alt="Seja Bem-vindo"
-        src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&repeat=false&pause=4&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
+        src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&repeat=false&pause=4&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
     />
 </picture>
 
