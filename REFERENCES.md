@@ -27,7 +27,7 @@ além de alguns que eu gostei mas não coloquei por achar que não combinava no 
 - [Contador de Visitas (abra o link para o repositório)](https://ryanlanciaux.com/blog/2020/07/13/quick-github-profile-visit-counter/)
 
 ## ICONS
-- [Pequenas Etiquetas](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [Etiquetas](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [Dev Icon](https://devicon.dev/)
 
 ## ACTIONS
