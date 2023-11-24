@@ -29,6 +29,7 @@ além de alguns que eu gostei mas não coloquei por achar que não combinava no 
 ## ICONS
 - [Etiquetas](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [Dev Icon](https://devicon.dev/)
+- [Shields.io](https://shields.io/)
 
 ## ACTIONS
 - [Snake](https://github.com/Platane/snk)
