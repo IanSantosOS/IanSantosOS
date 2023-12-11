@@ -32,30 +32,30 @@
 <div align="center">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
+            srcset="https://github-readme-stats.vercel.app/api?username=IanSantosOS&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br&rank_icon=github"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
+            srcset="https://github-readme-stats.vercel.app/api?username=IanSantosOS&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-            src="https://github-readme-stats.vercel.app/api?username=1ansantos&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
+            src="https://github-readme-stats.vercel.app/api?username=IanSantosOS&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
             alt="Estatísticas do Github de Ian Santos"
             height="180em"
         />
     </picture>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IanSantosOS&layout=compact&theme=radical&bg_color=00000000&hide_border=true&locale=pt-br"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&hide_border=true&locale=pt-br"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IanSantosOS&theme=transparent&layout=compact&hide_border=true&locale=pt-br"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ansantos&theme=transparent&layout=compact&hide_border=true&locale=pt-br"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanSantosOS&theme=transparent&layout=compact&hide_border=true&locale=pt-br"
             alt="Linguagens mais usadas"
             height="190em"
         />
@@ -63,15 +63,15 @@
     <br/>
     <picture>
         <source
-            srcset="https://streak-stats.demolab.com?user=1ansantos&background=transparent&theme=dark&hide_border=true&locale=pt_BR"
+            srcset="https://streak-stats.demolab.com?user=IanSantosOS&background=transparent&theme=dark&hide_border=true&locale=pt_BR"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://streak-stats.demolab.com?user=1ansantos&hide_border=true&locale=pt_BR"
+            srcset="https://streak-stats.demolab.com?user=IanSantosOS&hide_border=true&locale=pt_BR"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-            src="https://streak-stats.demolab.com?user=1ansantos&hide_border=true&locale=pt_BR"
+            src="https://streak-stats.demolab.com?user=IanSantosOS&hide_border=true&locale=pt_BR"
             alt="GitHub Streak"
             height="190em"
         />
@@ -80,12 +80,12 @@
 
 <div align="center">
     <p><b>Contador de Visitas</b></p>
-    <img src="https://profile-counter.glitch.me/1anSantos/count.svg" /> 
+    <img src="https://profile-counter.glitch.me/iansantosos/count.svg" /> 
 </div>
 
 <div align="center">
-    <a href="https://1ansantos.github.io/">
-        <img alt="Meu Site" src="https://img.shields.io/website?label=Meu%20Site&style=for-the-badge&url=https://1ansantos.github.io/" />
+    <a href="https://iansantosos.github.io/">
+        <img alt="Meu Site" src="https://img.shields.io/website?label=Meu%20Site&style=for-the-badge&url=https://iansantosos.github.io/" />
     </a>
     <br />
     <a href="https://www.linkedin.com/in/ian-dos-santos-a20956283/">
@@ -111,30 +111,30 @@
 <div align="center">
     <picture>
         <source
-            srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&theme=onestar&column=-1"
+            srcset="https://github-profile-trophy.vercel.app/?username=IanSantosOS&no-bg=true&no-frame=true&theme=onestar&column=-1"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&no-frame=true&column=-1"
+            srcset="https://github-profile-trophy.vercel.app/?username=IanSantosOS&no-bg=true&no-frame=true&column=-1"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-            src="https://github-profile-trophy.vercel.app/?username=1ansantos&no-frame=true&column=-1"
+            src="https://github-profile-trophy.vercel.app/?username=IanSantosOS&no-frame=true&column=-1"
             alt="Imagem com todos os troféis"
         />
     </picture>
     <br/>
     <picture>
         <source
-            srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg"
+            srcset="https://raw.githubusercontent.com/IanSantosOS/IanSantosOS/output/github-contribution-grid-snake-dark.svg"
             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
         />
         <source
-            srcset="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake.svg"
+            srcset="https://raw.githubusercontent.com/IanSantosOS/IanSantosOS/output/github-contribution-grid-snake.svg"
             media="(prefers-color-scheme: light)"
         />
         <img
-            src="https://raw.githubusercontent.com/1anSantos/1anSantos/output/github-contribution-grid-snake-dark.svg"
+            src="https://raw.githubusercontent.com/IanSantosOS/IanSantosOS/output/github-contribution-grid-snake-dark.svg"
             alt="Animação de uma cobra comendo os commits"
         />
     </picture>
@@ -147,15 +147,15 @@ SETINHA PARA APARECER OS TROFÉUS
     <div align="center">
         <picture>
             <source
-                srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&theme=onestar&column=-1"
+                srcset="https://github-profile-trophy.vercel.app/?username=IanSantosOS&no-bg=true&theme=onestar&column=-1"
                 media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
             />
             <source
-                srcset="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&column=-1"
+                srcset="https://github-profile-trophy.vercel.app/?username=IanSantosOS&no-bg=true&column=-1"
                 media="(prefers-color-scheme: light)"
             />
             <img
-                src="https://github-profile-trophy.vercel.app/?username=1ansantos&no-bg=true&column=-1"
+                src="https://github-profile-trophy.vercel.app/?username=IanSantosOS&no-bg=true&column=-1"
                 alt="Imagem com todos os troféis"
             />
         </picture>
