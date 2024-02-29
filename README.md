@@ -79,11 +79,6 @@
 </div>
 
 <div align="center">
-    <p><b>Contador de Visitas</b></p>
-    <img src="https://profile-counter.glitch.me/iansantosos/count.svg" /> 
-</div>
-
-<div align="center">
     <a href="https://iansantosos.github.io/">
         <img alt="Meu Site" src="https://img.shields.io/website?label=Meu%20Site&style=for-the-badge&url=https://iansantosos.github.io/" />
     </a>
