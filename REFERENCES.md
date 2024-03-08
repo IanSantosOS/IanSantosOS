@@ -28,6 +28,7 @@ além de alguns que eu gostei mas não coloquei por achar que não combinava no 
 
 ## ICONS
 - [Etiquetas](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [Dev Icon](https://devicon.dev/)
 - [Shields.io](https://shields.io/)
 
