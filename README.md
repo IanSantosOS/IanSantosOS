@@ -13,22 +13,6 @@
     />
 </picture>
 
-<picture>
-    <source
-        srcset="https://readme-typing-svg.herokuapp.com/?color=bc0f4b&size=35&center=true&vCenter=true&repeat=false&pause=700&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://readme-typing-svg.herokuapp.com/?color=3082f4&size=35&center=true&vCenter=true&repeat=false&pause=4&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-        width="100%"
-        alt="Seja Bem-vindo"
-        src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&repeat=false&pause=4&width=1000&lines=Hello+There+👋+|+General+Kenobi;Github+de+Ian+Santos;Estudante+do+Instituto+Federal+de+Alagoas+🌴;Cursando+Desenvolvimento+de+Sistemas+💻;Seja+Bem-Vindo!+:%29"
-    />
-</picture>
-
 <div align="center">
     <picture>
         <source
